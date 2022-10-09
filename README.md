@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Seyid2020
+- 👋 Hi, I’m Ebnou Abdem seyid
 - 👀 I’m interested in Statistics, Data Science, Machine Learning, Deep Learning, AI, and Applied  Mathematics.
-- 🌱 I’m currently learning in  Mohamed V University at Morocoo
+- 🌱 I’m currently Ph.D in Statistics at  Mohamed V University in Rabat.
 - 💞️ I’m looking to collaborate on Statistics, Data Science, Machine Learning, Deep Learning, AI, and Applied  Mathematics.
 - 📫 How to reach me seyidebnou@gmail.com, https://www.linkedin.com/in/ebnou-abdem-seyid-abdellahi-9a728715b/
 
