@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ebnou Abdem seyid Abdellahi 
-- I am Dr. Seyid Ebnou, a statistician and data scientist, currently serving as a postdoctoral researcher at the Center of Urban Systems (CUS) at Mohamed VI Polytechnic University (UM6P) in Ben Guerir, Morocco. Additionally, I held the position of Associate Professor at Mohammed V University in Rabat from 2020 to 2023, where I completed my Ph.D. in Statistics in July 2023.
+- 👋 Hi
+I am Dr. Seyid Ebnou, a statistician and data scientist, currently serving as a postdoctoral researcher at the Center of Urban Systems (CUS) at Mohamed VI Polytechnic University (UM6P) in Ben Guerir, Morocco. Additionally, I held the position of Associate Professor at Mohammed V University in Rabat from 2020 to 2023, where I completed my Ph.D. in Statistics in July 2023.
 
 Throughout my career, I have actively participated in the scientific committees of numerous international conferences, earned various professional certificates, and authored numerous research papers.
 
